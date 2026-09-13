@@ -2,27 +2,27 @@
   "schemaVersion": 1,
   "app": "ITDeM",
   "version": "0.2.1",
-  "buildId": "20260913092452",
-  "builtAt": "2026-09-13T09:26:03.934Z",
-  "releasedAt": "2026-09-13T09:26:03.934Z",
+  "buildId": "20260913095226",
+  "builtAt": "2026-09-13T09:53:16.033Z",
+  "releasedAt": "2026-09-13T09:53:16.033Z",
   "artifacts": {
     "server": {
       "file": "ITDeMServer_v0.2.1.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-ITDeM/main/ITDeMServer_v0.2.1.exe",
       "sha256": "0ba90e215aa073aa49ccbfd46d10b9477e21e098f534989e6c8a7bbf6b728907",
       "size": 98565632,
-      "buildId": "20260913092452",
-      "builtAt": "2026-09-13T09:26:03.934Z",
-      "releasedAt": "2026-09-13T09:26:03.934Z"
+      "buildId": "20260913095226",
+      "builtAt": "2026-09-13T09:53:16.033Z",
+      "releasedAt": "2026-09-13T09:53:16.033Z"
     },
     "serverZip": {
       "file": "ITDeMServer-0.2.1-win-x64.zip",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-ITDeM/main/ITDeMServer-0.2.1-win-x64.zip",
-      "sha256": "f4a4dabea641fcc8b0fc097b159261e5806145212ba6d6b0d7a37138bbbd52e3",
+      "sha256": "3389ae400b96a752469e90f2dc9aef592a1571d0de4298a3202d7c2c26f10c4f",
       "size": 35790019,
-      "buildId": "20260913092452",
-      "builtAt": "2026-09-13T09:26:03.934Z",
-      "releasedAt": "2026-09-13T09:26:03.934Z"
+      "buildId": "20260913095226",
+      "builtAt": "2026-09-13T09:53:16.033Z",
+      "releasedAt": "2026-09-13T09:53:16.033Z"
     }
   }
 }
