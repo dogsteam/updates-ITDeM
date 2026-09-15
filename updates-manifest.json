@@ -23,6 +23,16 @@
       "buildId": "20260913095226",
       "builtAt": "2026-09-13T10:13:12.512Z",
       "releasedAt": "2026-09-13T10:13:12.512Z"
+    },
+    "desktop": {
+      "file": "ITDeM_v0.2.2.exe",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-ITDeM/main/ITDeM_v0.2.2.exe",
+      "version": "0.2.2",
+      "sha256": "bbaa389074962c22fdb77d1d7fe4ab77159041a2202682c151f2e2e58f91c500",
+      "size": 71923452,
+      "buildId": "20260915083506",
+      "builtAt": "2026-09-15T08:35:06.854Z",
+      "releasedAt": "2026-09-15T08:38:41.027Z"
     }
   }
 }
