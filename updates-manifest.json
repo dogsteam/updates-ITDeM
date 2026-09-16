@@ -28,11 +28,11 @@
       "file": "ITDeM_v0.2.2.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-ITDeM/main/ITDeM_v0.2.2.exe",
       "version": "0.2.2",
-      "sha256": "bbaa389074962c22fdb77d1d7fe4ab77159041a2202682c151f2e2e58f91c500",
-      "size": 71923452,
-      "buildId": "20260915083506",
-      "builtAt": "2026-09-15T08:35:06.854Z",
-      "releasedAt": "2026-09-15T08:38:41.027Z"
+      "sha256": "e5a35e9d65cfd734aeef47cdcc62d59a8ed38af9a591d839aaedb7addd656f73",
+      "size": 71923911,
+      "buildId": "20260916065610",
+      "builtAt": "2026-09-16T06:56:10.410Z",
+      "releasedAt": "2026-09-16T06:58:04.551Z"
     }
   }
 }
