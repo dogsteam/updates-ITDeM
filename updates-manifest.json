@@ -33,6 +33,17 @@
       "buildId": "20260916065610",
       "builtAt": "2026-09-16T06:56:10.410Z",
       "releasedAt": "2026-09-16T06:58:04.551Z"
+    },
+    "android": {
+      "file": "ITDeM-0.2.2-android.apk",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-ITDeM/main/ITDeM-0.2.2-android.apk",
+      "version": "0.2.2",
+      "variant": "debug-signed-test",
+      "sha256": "b0b36a9f294c4473dc490536232d8e87ae04ec2b7780c755067045754ea0c1a5",
+      "size": 28259144,
+      "buildId": "20260917074612",
+      "builtAt": "2026-09-17T07:46:12+07:00",
+      "releasedAt": "2026-09-17T07:47:00+07:00"
     }
   }
 }
